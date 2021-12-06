@@ -1,0 +1,13 @@
+https://youtu.be/XZiFBlfluZk
+
+steps:
+npm init -y
+npm i express
+npm i mongoose //helps to connect node to mongoDB
+npm i hbs //handlebars
+mkdir src
+cd src
+mkdir models
+mkdir db
+create app.js file
+
